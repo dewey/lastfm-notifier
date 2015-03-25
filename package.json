@@ -1,0 +1,17 @@
+{
+  "name": "lastfm-notifier",
+  "version": "1.0.0",
+  "description": "Push notifications for comments added on Last.fm event pages.",
+  "main": "app.js",
+  "dependencies": {
+    "cron": "^1.0.9",
+    "pushover-notifications": "^0.2.2",
+    "request": "^2.54.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dewey",
+  "license": "MIT"
+}
